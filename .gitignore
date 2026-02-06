@@ -45,3 +45,7 @@ bin/
 ### Project ###
 **/src/main/**/stage1/
 **/src/main/**/stage2/
+**/src/main/**/stage3/
+**/src/main/**/stage4/
+
+**/src/test/**/stage1/

@@ -1,4 +1,4 @@
-package dev;
+package dev.stage4;
 
 import java.util.Scanner;
 
