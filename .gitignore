@@ -47,5 +47,9 @@ bin/
 **/src/main/**/stage2/
 **/src/main/**/stage3/
 **/src/main/**/stage4/
+**/src/main/**/stage5/
+**/src/main/**/stage6/
+**/src/main/**/stage7/
+**/src/main/**/stage8/
 
 **/src/test/**/stage1/
